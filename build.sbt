@@ -1,4 +1,4 @@
-name := "untitled3"
+name := "kata"
 
 version := "0.1"
 
